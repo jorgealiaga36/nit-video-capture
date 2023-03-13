@@ -4,6 +4,8 @@ This proyect is an implementation of a video capturer of the NIT thermal camera 
 
 * For a more detailed information about the camera: https://www.lircameras.com/lir320/
 
+<center><img src="data/frame.PNG"></center>
+
 ## 1. Initial Configuration
 
 1. Create (and activate) a new environment, named `nit-capt` with Python 3.9.
