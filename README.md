@@ -5,7 +5,6 @@ This proyect is an implementation of a video capturer of the NIT thermal camera 
 * For a more detailed information about the camera: https://www.lircameras.com/lir320/
 
 <center><img src="data/img0.PNG"></center>
-<center><img src="data/img1.PNG"></center>
 
 ## 1. Initial Configuration
 
