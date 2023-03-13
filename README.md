@@ -2,7 +2,7 @@
 
 This proyect is an implementation of a video capturer of the NIT thermal camera called LIR320.
 
-For a more detailed information about the camera: https://www.lircameras.com/lir320/
+* For a more detailed information about the camera: https://www.lircameras.com/lir320/
 
 ## 1. Initial Configuration
 
@@ -42,6 +42,7 @@ For running the code:
 
 Where:
 * `--video-format` or `-vf`: Video format selected (grayscale or corrected).
+
 Where:
        - Grayscale format records video in `.mkv` format. 
        - Corrected format records video in `.RAW` format (specific video format given by the manufacturer).
