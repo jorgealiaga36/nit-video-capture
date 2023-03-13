@@ -50,7 +50,7 @@ Keys configurated for performing the following actions:
 
 * Press `space-bar`: Start recording a new video. Press again for end recording.
 
-__**You can record the videos you want**__
+__**You can record the videos you want.**__
 
 
 
