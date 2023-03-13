@@ -44,8 +44,9 @@ Where:
 * `--video-format` or `-vf`: Video format selected (grayscale or corrected).
 
 __Aclaration:__
-       - Grayscale format records video in `.mkv` format. 
-       - Corrected format records video in `.RAW` format (specific video format given by the manufacturer).
+       - Grayscale - format records video in `.mkv` format. 
+       
+       - Corrected - format records video in `.RAW` format (specific video format given by the manufacturer).
 * `--output-source` or `-ins`: Output recorded video root.
 
 ### 2.1. Intructions
